@@ -49,12 +49,14 @@
             "id": "96629c206add6ef3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "livraria_cafe_tech_logico.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "livraria_cafe_tech_logico"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -201,10 +203,12 @@
   },
   "active": "96629c206add6ef3",
   "lastOpenFiles": [
+    "livraria_cafe_tech_logico.png",
+    "GuiaInstalacao.md",
+    "README.md",
     "livraria_cafe_tech_conceitual.png",
     "GuiaInstalacao.md.md",
     "README.md.md",
-    "livraria_cafe_tech_logico.png",
     "livraria_cafe_tech_conceitual.png.png",
     "livraria_cafe_tech_conceitual.png.md",
     "Diagrama-Modelo-Fisico.png.md",
