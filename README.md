@@ -1,4 +1,4 @@
-# Banco de Dados - Cafelivraria Tech
+﻿# Banco de Dados - Cafelivraria Tech
 
 Este repositório apresenta a evolução de um banco de dados para uma livraria que também oferece produtos e serviços complementares. Ele inclui:
 
